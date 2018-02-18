@@ -1,2 +1,4 @@
-# cartazes e infográficos - Work in Progress
-Cartazes e infográficos para te ajudar a promover a acessibilidade! :)
+# Acessibilidade Toolkit
+## Kit de ferramentas para auxiliar o entendimento das diretrizes WCAG
+
+versão 1.0 (2018-02-18)
