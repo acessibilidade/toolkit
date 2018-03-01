@@ -5,12 +5,12 @@
 WORK IN PROGRESS
 ==================
 
-Sobre o projeto
-Boas práticas
-Instruções de uso/edição/compartilhamento/etc
-Créditos
-Recomendações
-Por que não em inglês?
+* Sobre o projeto
+* Boas práticas
+* Instruções de uso/edição/compartilhamento/etc
+* Créditos
+* Recomendações
+* Por que não em inglês?
 
 versão 1.0 (2018-02-18)
 
