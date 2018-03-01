@@ -1,6 +1,17 @@
 # Acessibilidade Toolkit
 ## Kit de ferramentas para auxiliar o entendimento das diretrizes WCAG
 
+==================
+WORK IN PROGRESS
+==================
+
+Sobre o projeto
+Boas práticas
+Instruções de uso/edição/compartilhamento/etc
+Créditos
+Recomendações
+Por que não em inglês?
+
 versão 1.0 (2018-02-18)
 
 <img alt="Este projeto é uma iniciativa acessibilida.de" src="http://acessibilida.de/img/logo-acessibilidade-projeto-iniciativa.png" />
