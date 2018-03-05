@@ -48,6 +48,6 @@ A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech
 ### Licença de uso
 Sinta-se livre para utilizar, traduzir, editar, customizar e redistribuir da forma como quiser, inclusive modificando o layout e características dos cards e da caixinha para armazenar. Porém sempre será necessário citar a fonte e incluir um link para este projeto, bem como efetuar a distribuição utilizando o mesmo tipo de licença.
 
-O trabalho <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"Acessibilidade Toolkit"</span> está licenciado com uma Licença
-[Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR).
+O trabalho <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"Acessibilidade Toolkit"</span> está licenciado com uma Licença [Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR).
+
 Baseado no trabalho disponível em [http://acessibilida.de](http://acessibilida.de).
