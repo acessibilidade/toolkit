@@ -2,7 +2,7 @@
 
 ![Logo do projeto Acessibilidade Toolkit](http://acessibilida.de/img/logo-acessibilidade-toolkit.png)
 
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg) ![a11y ok](https://img.shields.io/badge/a11y-ok-green.svg) ![Accessibility ok](https://img.shields.io/badge/accessibility-ok-green.svg) ![Accessibility ok](https://img.shields.io/badge/ux-ready-red.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg) ![a11y ok](https://img.shields.io/badge/a11y-ok-green.svg) ![Accessibility ok](https://img.shields.io/badge/accessibility-ok-green.svg) ![Accessibility ok](https://img.shields.io/badge/ux-ready-red.svg) ![Accessibility ok](https://img.shields.io/badge/design-ready-red.svg)
 
 # Acessibilidade Toolkit
 ## Kit de ferramentas para auxiliar o entendimento das diretrizes WCAG
