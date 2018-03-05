@@ -40,7 +40,6 @@ Se você nunca contribuiu com projetos Open Source via GitHub e não tem a míni
 Este material foi criado, planejado e desenvolvido por [Marcelo Sales](https://www.linkedin.com/in/msales78/), um designer que atua com UX, mas tem a acessibilidade como principal causa e disseminação de conhecimento.
 
 ![Este projeto é uma iniciativa acessibilida.de](http://acessibilida.de/img/logo-acessibilidade-iniciativa.png)
-(http://acessibilida.de)
 
 **Fonte utilizada**
 A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech.com/fonts/). Trata-se de uma fonte produzida por John Gill e criada especialmente a pedido do [RNIB](http://www.rnib.org.uk/) _(Royal National Institute of Blind People)_. Ela possui licená livre de uso pessoal e comercial e também está disponibilizada neste repositório.
