@@ -33,8 +33,8 @@ Ao contribuir com **traduções**, siga esses poucos passos:
 * Não esqueça de descrever todas as alterações efetuadas para atualizarmos o changelog.
 
 Se você nunca contribuiu com projetos Open Source via GitHub e não tem a mínima ideia de como fazer isso, leia esses artigos:
-[Contribuindo com projetos Open Source (Parte 1)](https://medium.com/@pragmaticivan/contribuindo-em-projetos-open-source-utilizando-git-parte-1-d2b160e0abb5)
-[Contribuindo com projetos Open Source (Parte 2)](https://medium.com/@pragmaticivan/forking-workflow-contribuindo-em-projetos-open-source-utilizando-git-parte-2-a1849204d02e)
+
+[Contribuindo com projetos Open Source (Parte 1)](https://medium.com/@pragmaticivan/contribuindo-em-projetos-open-source-utilizando-git-parte-1-d2b160e0abb5) | [Contribuindo com projetos Open Source (Parte 2)](https://medium.com/@pragmaticivan/forking-workflow-contribuindo-em-projetos-open-source-utilizando-git-parte-2-a1849204d02e)
 
 ### Créditos
 Este material foi criado, planejado e desenvolvido por [Marcelo Sales](https://www.linkedin.com/in/msales78/), um designer que atua com UX, mas tem a acessibilidade como principal causa e disseminação de conhecimento.
@@ -42,6 +42,7 @@ Este material foi criado, planejado e desenvolvido por [Marcelo Sales](https://w
 ![Este projeto é uma iniciativa acessibilida.de](http://acessibilida.de/img/logo-acessibilidade-iniciativa.png)
 
 **Fonte utilizada**
+
 A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech.com/fonts/). Trata-se de uma fonte produzida por John Gill e criada especialmente a pedido do [RNIB](http://www.rnib.org.uk/) _(Royal National Institute of Blind People)_. Ela possui licená livre de uso pessoal e comercial e também está disponibilizada neste repositório.
 
 ### Licença de uso
