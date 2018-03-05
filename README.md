@@ -30,6 +30,7 @@ Porém para que ocorra o correto desenvolvimento é sempre bom seguir algumas bo
 Ao contribuir com **traduções**, siga esses poucos passos:
 * Traduções precisam ser disponibilizadas publicamente;
 * Clone o repositório;
+	* Criar uma "branch" para o projeto;
 	* Crie uma pasta com as iniciais do idioma a ser inserido (por exemplo: para inglês, crie uma pasta _"en"_);
 	* Acrescente o mesmo código como sufixo no nome do arquivo (por exemplo: _"acessibilidade-toolkit-cards_en.pdf"_;
 	* Utilize sempre minúsculas tanto para nomes de pastas como nomes de arquivos;
@@ -47,10 +48,10 @@ Este material foi criado, planejado e desenvolvido por [Marcelo Sales](https://w
 
 **Fonte utilizada**
 
-A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech.com/fonts/). Trata-se de uma fonte produzida por John Gill e criada especialmente a pedido do [RNIB](http://www.rnib.org.uk/) _(Royal National Institute of Blind People)_. Ela possui licená livre de uso pessoal e comercial e também está disponibilizada neste repositório.
+A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech.com/fonts/). Trata-se de uma fonte produzida por John Gill e criada especialmente a pedido do [RNIB](http://www.rnib.org.uk/) _(Royal National Institute of Blind People)_. Ela possui licença livre de uso pessoal e comercial e também está disponibilizada neste repositório.
 
 ### Licença de uso
-Sinta-se livre para utilizar, traduzir, editar, customizar e redistribuir da forma como quiser, inclusive modificando o layout e características dos cards e da caixinha para armazenar. Porém sempre será necessário citar a fonte e incluir um link para este projeto, bem como efetuar a distribuição utilizando o mesmo tipo de licença.
+Sinta-se livre para utilizar, traduzir, editar, customizar e redistribuir da forma como quiser, inclusive modificando o layout e características dos cards e da caixinha para armazenar. Desde que cite a fonte e inclua um link para este projeto, e também efetue a distribuição utilizando o mesmo tipo de licença.
 
 O trabalho <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"Acessibilidade Toolkit"</span> está licenciado com uma Licença [Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR).
 
