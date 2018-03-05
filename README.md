@@ -10,7 +10,7 @@
 ***
 **Attention:**
 
-This project is initially in Portuguese, but will also be available in English.
+This project is initially in brazilian portuguese (pt-br), but will also be available in English.
 Feel free to contribute translations.
 ***
 
