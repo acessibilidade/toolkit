@@ -8,7 +8,7 @@
 ## Kit de ferramentas para auxiliar o entendimento das diretrizes WCAG
 
 ***
-Attention:
+**Attention:**
 
 This project is initially in Portuguese, but will also be available in English.
 Feel free to contribute translations.
