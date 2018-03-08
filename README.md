@@ -23,6 +23,9 @@ Este material pode ser usado de diferentes formas. A aplicação inicial foi pen
 
 Mas na prática um toolkit neste formato (cards) pode ser utilizado como **fonte rápida de consulta de diretrizes WCAG**, **disseminação de conhecimento**, **facilitador de discussões**, **identificador de funcionalidades** ou até mesmo como um **checklist**. Manusear algo físico ao invés de apenas consultar digitalmente estimula a criatividade em qualquer processo de desenvolvimento de produto.
 
+Se quiser ler detalhadamente sobre todo o processo criativo e o que me fez decidir criar esse material, leia este artigo:
+https://uxdesign.blog.br/acessibilidade-toolkit-entendendo-de-uma-vez-por-todas-a-wcag-e2714120d80
+
 ### Como contribuir com o projeto?
 Este projeto é livre para que você contribua como puder, seja corrigindo informações, seja traduzindo o material, seja atualizando o layout, enfim... como quiser.
 Porém para que ocorra o correto desenvolvimento é sempre bom seguir algumas boas práticas, dessa forma contribuímos para um ambiente evolutivo saudável e efetivo para todos.
