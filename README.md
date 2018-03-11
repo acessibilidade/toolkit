@@ -33,7 +33,7 @@ Porém para que ocorra o correto desenvolvimento é sempre bom seguir algumas bo
 Ao contribuir com **traduções**, siga esses poucos passos:
 * Traduções precisam ser disponibilizadas publicamente;
 * Clone o repositório;
-	* Criar uma "branch" para o projeto;
+	* Crie uma "branch" para o projeto;
 	* Crie uma pasta com as iniciais do idioma a ser inserido (por exemplo: para inglês, crie uma pasta _"en"_);
 	* Acrescente o mesmo código como sufixo no nome do arquivo (por exemplo: _"acessibilidade-toolkit-cards_en.pdf"_;
 	* Utilize sempre minúsculas tanto para nomes de pastas como nomes de arquivos;
