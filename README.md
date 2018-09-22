@@ -7,7 +7,7 @@
 # Acessibilidade Toolkit
 ## Kit de ferramentas para auxiliar o entendimento das diretrizes WCAG
 
-Versão atual: 1.1.0
+Versão atual: 1.1.1
 [Changelog](https://github.com/acessibilidade/toolkit/wiki/Change-log)
 
 ***
