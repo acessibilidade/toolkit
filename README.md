@@ -57,6 +57,7 @@ Este material foi criado, planejado e desenvolvido por [Marcelo Sales](https://w
 A fonte utilizada neste projeto é a [Tiresias Infofont](http://www.johngilltech.com/fonts/). Trata-se de uma fonte produzida por John Gill e criada especialmente a pedido do [RNIB](http://www.rnib.org.uk/) _(Royal National Institute of Blind People)_. Ela possui licença livre de uso pessoal e comercial e também está disponibilizada neste repositório.
 
 **Versões em outros idiomas e ambientes**
+
 Espanhol: A versão em Espanhol presente no diretório /es foi criada e disponibilizada por [Eduardo Pereyra](https://www.instagram.com/desarrollaweb/).
 
 Notion: Há uma versão para o [Notion](https://www.notion.so/Acessibilidade-Tolkit-a5b97315d5c44ad6991357f7c74f3658). 
