@@ -11,6 +11,10 @@ Versão atual: 1.1.3
 [Changelog](https://github.com/acessibilidade/toolkit/wiki/Change-log)
 
 ***
+**IMPORTANTE:**
+
+Este projeto está desatualizado se comparado a sua versão digital ([Guia WCAG](https://guia-wcag.com)). Todos os textos dos critérios da versão digital estão atualizados e revisados, mas a versão disponível para download aqui, ainda não recebeu essa atualização. De qualquer forma, entenda que isso não compromete o entendimento do material, a versão revisada apenas melhorou a comunicação das informações apresentadas.
+
 **Attention:**
 
 This project is initially in brazilian portuguese (pt-br), but will also be available in English.
